@@ -1,0 +1,23 @@
+Assignment 5 by Govienda Kumar 115215
+
+Apk with only 5.1  Works
+Apk with      5.2  Doesn't
+ 
+
+I have used images of signs outside of faculty rooms 
+
+1. Prof. Bernd Frohlich
+2. Prof. Charles Wuthrich
+3. Prof. Rodehorst
+4. Prof. Andreas Jakoby
+5. Prof. Echtler Florian
+
+Images can be found in the root directory
+
+References
+https://developer.vuforia.com/forum/android/using-android-studio-vuforia
+https://developer.vuforia.com/library/articles/Solution/How-to-replace-the-dataset-in-theAndroid-Image-Targets-sample
+https://stackoverflow.com/questions/27199177/webview-rendering-html-off-screen-to-knowwhen-content-is-fully-rendered
+https://developer.vuforia.com/library/articles/Solution/How-To-Draw-a-2D-image-on-top-ofa-target-using-OpenGL-ES
+http://developer.android.com/reference/android/webkit/WebView.html
+Friends
